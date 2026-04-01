@@ -18,7 +18,7 @@
 -->
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeml0ZnhvemcyZHduMHlucG0wd2lpdzJobW80MWw5dzFpd3ZzMXhsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umHlZ6jdOTs6Pd52x8/giphy.gif"
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpmNWp5cWpubXp2bWZuMjUzYmpqZHJpcTBsdDBqZGFnaTN3c3ZzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mDn9oaJD7RUt9vcPoJ/giphy.webp"
   alt="banner animado"
   width="50%"
   style="max-height:200px; object-fit:cover;" />
@@ -99,7 +99,7 @@ Git • GitHub • VS Code
 
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3I5OXd6bG8wM3R1eXE1ZGYzMDU3MGxsdTVyaTFuNmk3aHFxcmZ0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPDOGLMCXtQNdQR7SE/giphy.webp"
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeml0ZnhvemcyZHduMHlucG0wd2lpdzJobW80MWw5dzFpd3ZzMXhsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umHlZ6jdOTs6Pd52x8/giphy.webp"
   width="100" />
 
 <br/>

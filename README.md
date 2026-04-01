@@ -99,7 +99,7 @@ Git • GitHub • VS Code
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVldmpkNzBpZjg5ZjU5eGU4NW5lM2lwYXhmajBnMXNlNXp4ZmsxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bLJo9H0LTNiO39jRsd/giphy.webp"
   width="60" />
 
 <br/>

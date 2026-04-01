@@ -18,8 +18,7 @@
 -->
 
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JhNmV1MGVkdWRwczVuanNtODFjeXRyZGx1ZzlpM3hjeTcyN2Q1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mDn9oaJD7RUt9vcPoJ/giphy.gif
-  https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRpemM0MnRnYjRjdHQ4b2JuMmY2MHJleWJ3Z2Q1am04ZTV1djJrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3se4GR2IVg8wF3Rp1/giphy.gif"
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRpemM0MnRnYjRjdHQ4b2JuMmY2MHJleWJ3Z2Q1am04ZTV1djJrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3se4GR2IVg8wF3Rp1/giphy.gif"
   alt="banner animado"
   width="70%"
   style="max-height:200px; object-fit:cover;" />

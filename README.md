@@ -18,7 +18,7 @@
 -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JhNmV1MGVkdWRwczVuanNtODFjeXRyZGx1ZzlpM3hjeTcyN2Q1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mDn9oaJD7RUt9vcPoJ/giphy.gif"
   alt="banner animado"
   width="100%"
   style="max-height:200px; object-fit:cover;" />

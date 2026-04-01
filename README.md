@@ -100,7 +100,7 @@ Git • GitHub • VS Code
 🚀 Projetos em destaque
 <div align="center">
 
-<a href="https://github.com/OwL-Allfic/OwL-Allfic">
+<a href="[https://github.com/OwL-Allfic/OwL-Allfic](https://github.com/OwL-allfic/OwL-Allfic.git)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurKDev&repo=nome-do-repositorio-1&theme=tokyonight&hide_border=true" />
 </a>
 

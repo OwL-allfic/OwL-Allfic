@@ -18,7 +18,7 @@
 -->
 
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JyNXNlNzV3M3FsbmIzdGM3cGd4eTZ3OXc1dHBmcG1wM202OW8yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iiqkgc2aTrC9qvj7Bg/giphy.webp"
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JyNXNlNzV3M3FsbmIzdGM3cGd4eTZ3OXc1dHBmcG1wM202OW8yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iiqkgc2aTrC9qvj7Bg/giphy.gif"
   alt="banner animado"
   width="70%"
   style="max-height:200px; object-fit:cover;" />

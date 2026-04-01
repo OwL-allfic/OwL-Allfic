@@ -56,9 +56,7 @@
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.tiktok.com/@ynlaflame/video/7543299903385210134?is_from_webapp=1&sender_device=pc&web_id=7623750107485455893
-
-)"
+<img src="https://media1.tenor.com/m/qfmDBsRU6uYAAAAd/invinvible-whatsapp.gif"
   alt="gif de programação"
   width="340"
   style="border-radius:12px;" />

@@ -92,14 +92,14 @@ Git • GitHub • VS Code
 <div align="center">
 
 <a href="https://github.com/OwL-allfic/OwL-Allfic.git">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3I5OXd6bG8wM3R1eXE1ZGYzMDU3MGxsdTVyaTFuNmk3aHFxcmZ0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPDOGLMCXtQNdQR7SE/giphy.webp" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVldmpkNzBpZjg5ZjU5eGU4NW5lM2lwYXhmajBnMXNlNXp4ZmsxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bLJo9H0LTNiO39jRsd/giphy.webp" />
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVldmpkNzBpZjg5ZjU5eGU4NW5lM2lwYXhmajBnMXNlNXp4ZmsxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bLJo9H0LTNiO39jRsd/giphy.webp"
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3I5OXd6bG8wM3R1eXE1ZGYzMDU3MGxsdTVyaTFuNmk3aHFxcmZ0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPDOGLMCXtQNdQR7SE/giphy.webp"
   width="100" />
 
 <br/>

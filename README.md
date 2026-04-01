@@ -56,7 +56,7 @@
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://media1.tenor.com/m/qfmDBsRU6uYAAAAd/invinvible-whatsapp.gif"
+<img src="https://media1.tenor.com/m/qfmDBsRU6uYAAAAd/invinvible-whatsapp.webp"
   alt="gif de programação"
   width="340"
   style="border-radius:12px;" />

@@ -49,7 +49,7 @@
 <br/>
 
 📬 Fale comigo:  
-📧 arthurk.dev@gmail.com  
+📧 arthurkrebsdelvons@gmail.com  
 🔗 linkedin.com/in/arthurkdev  
 🐦 twitter.com/arthurkdev  
 
